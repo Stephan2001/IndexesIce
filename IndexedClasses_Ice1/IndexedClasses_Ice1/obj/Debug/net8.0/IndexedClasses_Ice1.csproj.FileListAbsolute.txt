@@ -1,0 +1,15 @@
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\bin\Debug\net8.0\IndexedClasses_Ice1.exe
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\bin\Debug\net8.0\IndexedClasses_Ice1.deps.json
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\bin\Debug\net8.0\IndexedClasses_Ice1.runtimeconfig.json
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\bin\Debug\net8.0\IndexedClasses_Ice1.dll
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\bin\Debug\net8.0\IndexedClasses_Ice1.pdb
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.AssemblyInfoInputs.cache
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.AssemblyInfo.cs
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.csproj.CoreCompileInputs.cache
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.sourcelink.json
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.dll
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\refint\IndexedClasses_Ice1.dll
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.pdb
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\IndexedClasses_Ice1.genruntimeconfig.cache
+C:\Users\moolm\source\Semester2 (year 3)\IndexedClasses_Ice1\IndexedClasses_Ice1\obj\Debug\net8.0\ref\IndexedClasses_Ice1.dll
